@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2022"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="tmus-20221118.xsd" xlink:type="simple"/>
+    <context id="duration_2022-11-18_to_2022-11-18">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0001283699</identifier>
+        </entity>
+        <period>
+            <startDate>2022-11-18</startDate>
+            <endDate>2022-11-18</endDate>
+        </period>
+    </context>
+    <dei:AmendmentFlag contextRef="duration_2022-11-18_to_2022-11-18">false</dei:AmendmentFlag>
+    <dei:EntityCentralIndexKey
+      contextRef="duration_2022-11-18_to_2022-11-18"
+      id="Hidden_dei_EntityCentralIndexKey">0001283699</dei:EntityCentralIndexKey>
+    <dei:DocumentType contextRef="duration_2022-11-18_to_2022-11-18">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate contextRef="duration_2022-11-18_to_2022-11-18">2022-11-18</dei:DocumentPeriodEndDate>
+    <dei:EntityRegistrantName contextRef="duration_2022-11-18_to_2022-11-18">T-MOBILE&#160;US,&#160;INC.</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode contextRef="duration_2022-11-18_to_2022-11-18">DE</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityFileNumber contextRef="duration_2022-11-18_to_2022-11-18">1-33409</dei:EntityFileNumber>
+    <dei:EntityTaxIdentificationNumber contextRef="duration_2022-11-18_to_2022-11-18">20-0836269</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1 contextRef="duration_2022-11-18_to_2022-11-18">12920 SE 38th Street</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown contextRef="duration_2022-11-18_to_2022-11-18">Bellevue</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince contextRef="duration_2022-11-18_to_2022-11-18">WA</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode contextRef="duration_2022-11-18_to_2022-11-18">98006-1350</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode contextRef="duration_2022-11-18_to_2022-11-18">425</dei:CityAreaCode>
+    <dei:LocalPhoneNumber contextRef="duration_2022-11-18_to_2022-11-18">378-4000</dei:LocalPhoneNumber>
+    <dei:WrittenCommunications contextRef="duration_2022-11-18_to_2022-11-18">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial contextRef="duration_2022-11-18_to_2022-11-18">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer contextRef="duration_2022-11-18_to_2022-11-18">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer contextRef="duration_2022-11-18_to_2022-11-18">false</dei:PreCommencementIssuerTenderOffer>
+    <dei:Security12bTitle contextRef="duration_2022-11-18_to_2022-11-18">Common Stock, par value $0.00001 per share</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="duration_2022-11-18_to_2022-11-18">TMUS</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="duration_2022-11-18_to_2022-11-18">NASDAQ</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany contextRef="duration_2022-11-18_to_2022-11-18">false</dei:EntityEmergingGrowthCompany>
+</xbrl>
